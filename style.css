@@ -1,0 +1,52 @@
+
+.fquiz{
+    padding: 50px;
+    
+}
+  
+   .qusn{
+    margin-bottom: 25px;
+    font-size: 24px;
+  }
+  .quizbtns{
+    border: 1px solid;
+    width: 30%;
+    padding: 20px 20px;
+ 
+   
+  }
+  .nextquestionshow{
+    padding-top: 20px;
+
+  }
+  .quizquestion{
+    display: none;
+  }
+  .show{
+    display: block !important;
+  }
+  .submitquiz{
+    display: none;
+  }
+  .result{
+    display: none;
+    padding-top: 12px;
+    font-size: 30px;
+    color: rgb(255, 0, 0) ;
+  }
+ 
+  .prebtn{
+    padding: 5px 20px;
+    background-color: darkseagreen;
+    border: none;
+  }
+  .nxtbtn{
+    padding: 5px 20px;
+    background-color: darkseagreen;
+    border: none;
+  }
+  .sbmit{
+    padding: 5px 20px;
+    background-color: darkseagreen;
+    border: none;
+  }
